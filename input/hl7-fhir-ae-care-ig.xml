@@ -115,11 +115,11 @@
         <title value="Background and Workflow"/>
         <generation value="html"/>
       </page-->
-	  <!--page>
+	  <page>
         <name value="examples.html"/>
         <title value="Real World examples"/>
         <generation value="markdown"/>
-      </page-->
+      </page>
 	  <!--page>
         <extension url="http://hl7.org/fhir/StructureDefinition/structuredefinition-standards-status">
           <valueCode value="trial-use"/> 
@@ -155,7 +155,7 @@
       <page>
         <name value="downloads.html"/>
         <title value="Useful Downloads"/>
-        <generation value="html"/>
+        <generation value="markdown"/>
       </page>
       <!--page>
         <name value="changes.html"/>
@@ -227,12 +227,12 @@
       <code value="excludemap"/>
       <value value="true"/>
     </parameter-->
-    <parameter>
+    <!--parameter>
 	<code>
       <code value="showsource"/>
 	  </code>
       <value value="true"/>
-    </parameter>
+    </parameter-->
   </definition>
 </ImplementationGuide>
 
