@@ -68,9 +68,6 @@
 	<display value="Palliative Care Agency"/>
   </location>
 
-
-
-
   <outcome>
     <coding>
         <system value="http://snomed.info/sct"/>
