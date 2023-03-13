@@ -1,0 +1,9 @@
+== Suppressed Messages ==
+
+# Add warning and/or information messages here after you've confirmed that they aren't really a problem
+# instructions for ignoreWarnings.txt https://confluence.hl7.org/pages/viewpage.action?pageId=66938614#ImplementationGuideParameters-ManagingWarningsandHints
+# (And include comments like this justifying why)
+
+# Inherited valueset binding from the R5 snapshot3 but will resolve when R5 is published
+error	The link 'valueset-additional-binding-purpose.html#additional-binding-purpose-maximum' for "Max Binding" cannot be resolved
+
