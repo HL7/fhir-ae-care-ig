@@ -62,9 +62,6 @@
 	<display value="Condition with Diagnosis category, 296393006 | Anticholinergic drug overdose (disorder)"/>
   </resultingEffect>
   <resultingEffect>
-	<display value="Condition with Diagnosis category, 292059002 | Morphine adverse reaction (disorder)"/>
-  </resultingEffect>
-  <resultingEffect>
 	<display value="Condition with Diagnosis category, 216468001 | Accidental poisoning caused by morphine (disorder)"/>
   </resultingEffect>
 

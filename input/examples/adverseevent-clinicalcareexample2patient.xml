@@ -26,8 +26,8 @@
   <category> 
     <coding> 
       <system value="http://terminology.hl7.org/CodeSystem/adverse-event-category"/> 
-      <code value="unsafe-physical-environment"/> 
-      <display value="Unsafe Physical Environment"/>
+      <code value="medication-mishap"/> 
+      <display value="Medication Mishap"/>
     </coding> 
   </category>
   
